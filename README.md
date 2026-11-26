@@ -4,7 +4,7 @@
 ![Rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/qw123gyj-dev/u-pangg7-the-best-advice-i-ever-got-358cefb0/rank.svg)
 ![Reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/qw123gyj-dev/u-pangg7-the-best-advice-i-ever-got-358cefb0/reward.svg)
 
-A deterministic entry picker for the make.fun bounty
+A deterministic entry picker for the [make.fun](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0) bounty
 **"The Best Advice I Ever Got"** (slug `u-pangg7-the-best-advice-i-ever-got-358cefb0`).
 
 The task: write one sentence, at most 200 characters, about the best
